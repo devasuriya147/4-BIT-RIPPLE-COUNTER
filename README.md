@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f1b042b8-0e53-4c84-aba4-225798977fcd" /># 4-BIT-RIPPLE-COUNTER
+
 
 **AIM:**
 
